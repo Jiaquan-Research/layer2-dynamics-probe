@@ -169,7 +169,7 @@ Geodesic Dynamics can be reproduced using the standard probe runner:
 
 ```bash
 python -m llm_probe.run
-````
+```
 
 with prompts designed to induce multi-step constrained inference, as
 defined in `llm_probe/prompts.py`.
