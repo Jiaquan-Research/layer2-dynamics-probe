@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "He"
+  given-names: "Jiaquan"
+title: "Layer-2 Dynamics Probe: Phase-Space Diagnostics for LLM Inference"
+version: 1.0.0
+date-released: 2026-01-18
+url: "https://github.com/Jiaquan-Research/layer2-dynamics-probe"
+keywords:
+  - llm
+  - dynamics
+  - interpretability
+  - control-theory
+  - phase-space
+license: MIT

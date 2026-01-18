@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Hugging Face / Transformers cache
+.cache/
+hf_cache/
+transformers_cache/
+
+# Model weights (never commit)
+*.bin
+*.safetensors
+
+# Logs and experiment outputs
+logs/
+*.log
+
+# Generated figures
+*.png
+*.pdf
+figures/
+
+# OS
+.DS_Store
+Thumbs.db
